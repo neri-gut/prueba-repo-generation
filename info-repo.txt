@@ -1,1 +1,3 @@
 Este es el primer cambio del archivo de información del repositorio.
+
+El día 20 de septiembre del 2024 fue cuando se creo este primer documento.
